@@ -116,6 +116,14 @@ input[type="checkbox"] {
     text-align: center;
     padding: 20px;
 }
+.footer_a{
+    color: #FFFAFA;
+    text-decoration: none;
+}
+.footer_a:hover{
+    text-decoration: underline;
+    color: red;
+}
 
 .images {
     text-align: center;
