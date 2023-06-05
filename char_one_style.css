@@ -153,31 +153,6 @@ input[type="checkbox"] {
     font-size: large;
 }
 
-.text1 p{
-    color: black;
-    text-align: left;
-    border: 20px;
-    margin: 5%;
-}
-
-.text1 img {
-    width: 40%;
-    padding: 1% 2%;
-}
-
-.text1 h2 {
-    text-align: center;
-    border: 20px;
-    margin: 5%;
-    color: black;
-}
-
-.text1 h1 {
-    text-align: center;
-    border: 10px;
-    margin: 1%;
-    color: black;
-}
 
 
 
